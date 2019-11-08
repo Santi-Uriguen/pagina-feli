@@ -145,13 +145,14 @@ a:hover,a:active,a:focus{
 	padding-left:20px;
 	padding-right:20px;
 	padding-top:30px;
+	padding-bottom:25;
 	allign: center;
 	width: 90%;
 	
 }
 
 #services {
-	padding-top:20px;
+	padding-top:40px;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
