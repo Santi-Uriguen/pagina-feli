@@ -102,19 +102,19 @@ header{
 }
 .center {
     text-align: center;
-    color: #fff;
+    color: #000000;
 }
 .bigheadline {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 80;
-	font-size: 5em;
+	font-weight: 70;
+	font-size: 60px;
 	margin: 0;
 	font-color:#000000;
 }
 .subheadline {
 	font-family: 'Titillium Web', sans-serif;
 	font-weight: 200;
-	font-size: 2em;
+	font-size: 20px;
 	margin: 0;
 	font-color:#000000;
 }
