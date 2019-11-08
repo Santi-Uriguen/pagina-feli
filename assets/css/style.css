@@ -109,14 +109,14 @@ header{
 	font-weight: 80;
 	font-size: 5em;
 	margin: 0;
-	color:#0000;
+	font-color:#000000;
 }
 .subheadline {
 	font-family: 'Titillium Web', sans-serif;
 	font-weight: 200;
 	font-size: 2em;
 	margin: 0;
-	color:#0000
+	font-color:#000000;
 }
 
 .scrollDown {
