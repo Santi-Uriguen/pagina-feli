@@ -140,8 +140,10 @@ a:hover,a:active,a:focus{
 
 #estaciones div {
 	allign: center;
-	border: 10px solid black;
+	border: 5px solid black;
 	float: center;
+	margin:10px;
+	padding:10px;
 }
 	
 	
