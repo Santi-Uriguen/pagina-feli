@@ -9,7 +9,7 @@ html, body {
 body {
 	font-family: 'Lato', sans-serif;
 }
-h1,h2,h3,h4,h5,h6 {
+h1,h2 {
 	font-family: 'Dosis', sans-serif;
 }
 a {
@@ -148,10 +148,15 @@ a:hover,a:active,a:focus{
 	padding-bottom:25;
 	allign: center;
 	width: 90%;
-	height: 300px;
+	height: 900px;
 	
 }
 
+#boga, #jaula, #bauhaus, #pieza h3 {
+	font-family: 'Dosis', sans-serif;
+	font-size:20px;
+	
+}
 #services {
 	padding-top:55px;
 }
