@@ -151,11 +151,11 @@ header{
 }
 
 .logo-text {
-    font-size: 3em;
+    font-size: 2em;
     padding: 0.2em 0;
     color: #fff;
     font-family: 'Raleway', sans-serif;
-    font-weight: 100;
+    font-weight: 80;
     display: table-cell;
 	vertical-align: middle;
 }
@@ -248,6 +248,15 @@ header{
     font-size: 5em;
 }
 
+/* ///////////////////////////////////////////////////////////////////// 
+//  05 - Imagen
+/////////////////////////////////////////////////////////////////////*/
+
+.imagen {
+	padding-top:100px;
+	align: center;
+	padding-bottom:50px
+}
 
 /* ///////////////////////////////////////////////////////////////////// 
 //  05 - Portfolio
@@ -384,161 +393,8 @@ header{
     margin-bottom: 30px;
 }
 
-/* ///////////////////////////////////////////////////////////////////// 
-//  06 - Testimonial 
-/////////////////////////////////////////////////////////////////////*/
-
-#testimonial {
-    background: url(../images/parallax.jpg);
-    padding: 80px 0px 80px 0px;
-    color: #fff;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-.testimonila-block {
-    text-align: center;
-}
-.testimonila-block img {
-    border-radius: 50%;
-    border: 1px solid #000;
-    max-width: 200px;
-    max-height: 200px;
-    margin-bottom: 30px;
-}
-.testimonila-block p {
-    max-width: 60%;
-    margin: 0 auto;
-    margin-bottom: 20px;
-    font-style: italic;
-    font-size: 18px;
-}
-.testimonila-block strong {
-    font-size: 2em;
-}
 
 
-/* ///////////////////////////////////////////////////////////////////// 
-//  07 - Contact
-/////////////////////////////////////////////////////////////////////*/
-
-
-#contact {
-    color: #fff;
-}
-
-.mapWrap {
-    position: relative;
-    min-height: 600px;
-}
-#googleMap {
-    position: absolute !important;
-    top: 0;
-    left: 0;
-    height: 100%;
-}
-#contact-area {
-    background: rgba(0, 0, 0, 0.7);
-    width: 100%;
-    position: relative;
-    padding: 80px 0px 60px 0px;
-}
-
-.moreDetails {
-    color: #fff;
-}
-.con-title {
-    font-weight: 300;
-    font-size: 3em;
-    margin: 0;
-    padding-bottom: 30px;
-}
-.moreDetails p {
-    font-size: 16px;
-}
-.address {
-    list-style: none;
-    margin: 0;
-    padding: 10px 0px 0px 0px;
-}
-.address li {
-    font-size: 1.1em;
-    position: relative;
-    margin-bottom: 3%;
-}
-.address li i {
-    font-size: 20px;
-    position: absolute;
-    top: 1px;
-}
-.address li span {
-    padding-bottom: 10px;
-    position: relative;
-    left: 30px;
-}
-.form-control {
-    box-shadow: none;
-    border: 1px solid #8E8E8E;
-    border-radius: 0px;
-    padding: 12px 12px;
-    height: auto;
-    background: rgba(255, 255, 255, 0.11);
-}
-.form-group input,.form-group textarea {
-    color: #FFF;
-}
-
-/*Social media links*/
-
-#social {
-    background-color: rgba(0, 0, 0, 0.75) !important;
-    padding: 30px 0px 30px 0px;
-    position: relative;
-}
-.normal-txt {
-    color: #fff;
-    font-size: 3em;
-    font-weight: 100;
-    padding-bottom: 10px;
-    border-bottom: 1px solid;
-    max-width: 300px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-}
-.scoialinks {
-    list-style: none;
-    text-align: center;
-    padding: 0;
-}
-.social-icons {
-    display: inline-block;
-    padding: 0px 5px;
-}
-.social-icons a {
-    display: block;
-    width: 50px;
-    height: 50px;
-    background-size: 100% 200%;
-}
-
-.social-icons a:hover {
-    background-position: 0px -50px;
-}
-.facebook{
-	background-image: url(../images/facebook.png);
-}
-.twitter{
-	background-image: url(../images/twitter.png);
-}
-.google-plus{
-	background-image: url(../images/google-plus.png);
-}
-.linkedin{
-	background-image: url(../images/linkedin.png);
-}
-.wordpress{
-	background-image: url(../images/wordpress.png);
-}
 
 
 /* ///////////////////////////////////////////////////////////////////// 
