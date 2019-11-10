@@ -1,5 +1,5 @@
 .accordion {
-    display:block;
+    display:inline-block;
     cursor: pointer;
     padding: 18px;
     width: 200px;
