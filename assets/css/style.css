@@ -255,7 +255,7 @@ header{
 #imagen figure img {
 	max-width: 100%;
 	display: block;
-	position: center;
+	margin:auto;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
