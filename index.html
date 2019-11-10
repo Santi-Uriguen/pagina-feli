@@ -190,8 +190,16 @@
                     panel.style.maxHeight = null;
                 } else {
                     panel.style.maxHeight = panel.scrollHeight + "px";
-                    panel.style.maxWidth = panel.scrolWidth + "px";
+                    
                 }
+                var panel = this.nextElementSibling;
+                if (panel.style.maxWidth) {
+                    panel.style.maxWidth = null;
+                } else {
+                    panel.style.maxWidth = panel.scrollWidth + "px";
+                    
+                }
+                
             });
         }
     </script>
