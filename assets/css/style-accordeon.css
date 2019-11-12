@@ -10,7 +10,8 @@
     padding: 18px;
     width: 200px;
     height: 200px;
-    border: none;
+    border: 2px solid black;
+    margin:5px
     outline: none;
     transition: 0.4s;
     
