@@ -22,24 +22,21 @@
 }
 
 #bauhaus {
-        background:url(https://drive.google.com/open?id=1uVP3LzqZLqsrnivS30x-uEQKjStZzw0v) no-repeat;
+        background:url('assets/images/Isla Bauhaus') no-repeat;
         background-position:center;
 }
 
 #jaula {
-        background:url(assets/images/Isla Jaula.jpg);
-        background-repeat:no-repeat;
+        background:url('assets/images/Isla Jaula.jpg') no-repeat;
         background-position:center;
 }
 
 #pieza {
-        background:url(assets/images/Isla Pieza.jpg);
-        background-repeat:no-repeat;
+        background:url('assets/images/Isla Pieza.jpg')no-repeat;
         background-position:center;
 }
 #otra {
-        background:url(assets/images/Isla Fad.jpg);
-        background-repeat:no-repeat;
+        background:url('assets/images/Isla Fad.jpg')no-repeat;
         background-position:center;
 }
 
