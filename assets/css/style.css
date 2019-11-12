@@ -106,12 +106,14 @@ header{
     color: #FF5656;
 }
 .bigheadline {
+	background-color:#f39c12,0.4;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 70;
 	font-size: 80px;
 	margin: 0;
 }
 .subheadline {
+	background-color:#f39c12,0.4;
 	font-family: 'Titillium Web', sans-serif;
 	font-weight: 200;
 	font-size: 50px;
@@ -136,7 +138,7 @@ header{
 /////////////////////////////////////////////////////////////////////*/
 
 #navigation{
-	background: #111;
+	background: #f39c12;
 }
 .nav-wrap {
 	position: fixed;
@@ -337,7 +339,7 @@ header{
 
 .cs-style-3 figcaption {
 	height: 100px;
-	width: 100%;
+	width: 60%;
 	top: auto;
 	bottom: 0;
 	opacity: 0;
