@@ -17,13 +17,12 @@
 }
 
 #boga {
-        background:url(../images/Isla Boga.jpg);
-        background-repeat:no-repeat;
+        background:url(../images/Isla Boga.jpg) no-repeat;
         background-position:center;
 }
 
 #bauhaus {
-        background:url(assets/images/Isla Bauhaus.jpg);
+        background:url(https://drive.google.com/open?id=1uVP3LzqZLqsrnivS30x-uEQKjStZzw0v);
         background-repeat:no-repeat;
         background-position:center;
 }
