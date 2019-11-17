@@ -75,7 +75,7 @@
                                     <figure>
                                         <img src="assets/images/Pagina 3 (Color 1)-01.jpg" alt="color1">
                                     </figure>
-                                    <div class="panel" id="color">
+                                    <div class="panelb" id="color">
                                         <figure>
                                             <img src="assets/images/Pagina 3 (Color 2)-01.jpg" alt="color2">
                                         </figure>
@@ -88,7 +88,7 @@
                                     <figure>
                                         <img src="assets/images/Pagina 3 (Estructura 1)-01.jpg" alt="estruct1">
                                     </figure>
-                                    <div class="panel" id="estructura">
+                                    <div class="panelb" id="estructura">
                                         <figure>
                                             <img src="assets/images/Pagina 3 (Estructura 2)-01.jpg" alt="estruct2">
                                         </figure>
@@ -109,7 +109,7 @@
                                     <figure>
                                         <img src="assets/images/Pagina 3 (Simplificación 1)-01.jpg" alt="simpl1">
                                     </figure>
-                                    <div class="panel" id="simplif">
+                                    <div class="panelb" id="simplif">
                                         <figure>
                                             <img src="assets/images/Pagina 3 (Simplificación 2)-01.jpg" alt="simpl2">
                                         </figure>
@@ -122,7 +122,7 @@
                                     <figure>
                                         <img src="assets/images/Pagina 3 (Trama 1)-01.jpg" alt="trama1">
                                     </figure>
-                                    <div class="panel" id="trama">
+                                    <div class="panelb" id="trama">
                                         <figure>
                                             <img src="assets/images/Pagina 3 (Trama 2)-01.jpg" alt="trama2">
                                         </figure>
@@ -176,6 +176,20 @@
                     panel.style.maxWidth = null;
                 } else {
                     panel.style.maxWidth = panel.scrollWidth + "px";
+                    
+                }
+                var panelb = this.nextElementSibling;
+                if (panelb.style.maxHeight) {
+                    panelb.style.maxHeight = null;
+                } else {
+                    panelb.style.maxHeight = panelb.scrollHeight + "px";
+                    
+                }
+                var panelb = this.nextElementSibling;
+                if (panelb.style.maxWidth) {
+                    panelb.style.maxWidth = null;
+                } else {
+                    panelb.style.maxWidth = panelb.scrollWidth + "px";
                     
                 }
                 
