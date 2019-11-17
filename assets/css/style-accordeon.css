@@ -21,11 +21,15 @@
 #boga {
         background:url('../images/Isla Boga.jpg') no-repeat;
         background-position:center;
+        height:60%;
+        width:60%
 }
 
 #bauhaus {
         background:url('../images/Isla Bauhaus.jpg') no-repeat;
         background-position:center;
+        height:60%;
+        width:60%;
 }
 
 #jaula {
