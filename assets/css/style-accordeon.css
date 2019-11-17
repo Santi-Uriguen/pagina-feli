@@ -37,7 +37,7 @@
         background:url('../images/Isla Pieza.jpg')no-repeat;
         background-position:center;
 }
-#otra {
+#fad {
         background:url('../images/Isla Fad.jpg')no-repeat;
         background-position:center;
 }
@@ -70,3 +70,9 @@
     transition: max-width 0.2s ease-out;
 }
     
+#color #estructura #simplif #trama #pag4:{
+    display:inline-block;
+    vertical-allign:top;
+}
+
+
