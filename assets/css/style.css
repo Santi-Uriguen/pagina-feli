@@ -99,9 +99,7 @@ a:hover,a:active,a:focus{
 	height: 90%;
 	width:90%;
 	padding-bottom:0px;
-	margin-bottom:0px;
-	margin-right:auto;
-	margin-left:auto;
+	margin-bottom:0px
 }
 .center {
     text-align: center;
@@ -195,11 +193,9 @@ a:hover,a:active,a:focus{
 
 
 #portfolio img {
-    	height:90%;
-    	width:90;
-    	margin-top:0px;
-	margin-right:auto;
-	margin-left:auto;
+    height:90%;
+    width:90;
+	margin-top:0px;
 }
 
 
