@@ -98,30 +98,7 @@ a:hover,a:active,a:focus{
 //  02 - Header 
 /////////////////////////////////////////////////////////////////////*/
 
-#header img{
-	height: 90%;
-	width:90%;
-	padding-bottom:0px;
-	margin-bottom:0px
-}
-.center {
-    text-align: center;
-    color: #ffffff;
-}
-.bigheadline {
-	background-color:rgba(243,156,18,0.7);
-	font-family: 'Raleway', sans-serif;
-	font-weight: 70;
-	font-size: 80px;
-	margin: 0;
-}
-.subheadline {
-	background-color:rgba(243,156,18,0.7);
-	font-family: 'Titillium Web', sans-serif;
-	font-weight: 200;
-	font-size: 50px;
-	margin: 0;
-}
+
 
 .scrollDown {
     font-size: 4em;
@@ -180,15 +157,6 @@ a:hover,a:active,a:focus{
     font-size: 5em;
 }
 
-/* ///////////////////////////////////////////////////////////////////// 
-//  05 - Imagen
-/////////////////////////////////////////////////////////////////////*/
-
-#imagen figure img {
-	max-width: 100%;
-	display: block;
-	margin:auto;
-}
 
 /* ///////////////////////////////////////////////////////////////////// 
 //  05 - Portfolio
@@ -203,55 +171,6 @@ a:hover,a:active,a:focus{
 	position:center;
 }
 
-
-.port {
-	list-style: none;
-	text-align: left;
-	padding-bottom: 40px;
-}
-
-.port .item {
-	display: inline-block;
-	text-align: left;
-	position: relative;
-}
-
-.port figure {
-	margin: 0;
-	position: relative;
-}
-
-.port figure img {
-	max-width: 60%;
-	display: block;
-	position: relative;
-}
-
-.port figcaption {
-	position: absolute;
-	top: 0;
-	left: 0;
-	padding: 20px;
-	background: #111;
-	color: #e66f69;
-}
-
-.port figcaption h3 {
-	margin: 0px 0px 8px 0px;
-	padding: 0;
-	color: #fff;
-}
-
-.port figcaption span:before {
-	content: 'by ';
-}
-
-.port figcaption a {
-	text-align: center;
-	padding: 8px 15px;
-	display: inline-block;
-	color: #fff;
-}
 
 .cs-style-3 figure {
 	overflow: hidden;
@@ -298,10 +217,7 @@ a:hover,a:active,a:focus{
 	transition: transform 0.4s, opacity 0.1s;
 }
 
-.cs-style-3 figcaption a {
-	position: absolute;
-	bottom: 31px;
-	right: 20px;
+
 }
 .button{
 	background: transparent;
@@ -326,9 +242,7 @@ a:hover,a:active,a:focus{
     background: #000;
     color: #fff;
 }
-.item-space {
-    margin-bottom: 30px;
-}
+
 
 
 
@@ -349,6 +263,7 @@ footer {
     margin: 0;
     padding: 20px 0px;
     text-align: left;
+	
 }
 .designed {
     margin: 0;
@@ -381,7 +296,7 @@ footer {
 
 @media all and (max-width: 1200px) and (min-width: 992px) {
 
-	.services {
+	.islas-area {
 		max-width: 293px;
 		height: 213px;
 	}
@@ -419,7 +334,7 @@ footer {
 @media all and (max-width: 991px) {
 
 	header{
-		background: url(../images/bg-small.jpg) no-repeat;
+		background: url(../images/pagina 1-01.png) no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: 50% -50px;
