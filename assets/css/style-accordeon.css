@@ -80,8 +80,10 @@
 #color #estructura #simplif #trama #pag4:{
     display:inline-block;
     vertical-allign:top;
+    height:50%;
 }
 
 #color{
     height:80%
+}
 
