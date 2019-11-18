@@ -98,30 +98,7 @@ a:hover,a:active,a:focus{
 //  02 - Header 
 /////////////////////////////////////////////////////////////////////*/
 
-#header img{
-	height: 90%;
-	width:90%;
-	padding-bottom:0px;
-	margin-bottom:0px
-}
-.center {
-    text-align: center;
-    color: #ffffff;
-}
-.bigheadline {
-	background-color:rgba(243,156,18,0.7);
-	font-family: 'Raleway', sans-serif;
-	font-weight: 70;
-	font-size: 80px;
-	margin: 0;
-}
-.subheadline {
-	background-color:rgba(243,156,18,0.7);
-	font-family: 'Titillium Web', sans-serif;
-	font-weight: 200;
-	font-size: 50px;
-	margin: 0;
-}
+
 
 .scrollDown {
     font-size: 4em;
@@ -180,15 +157,6 @@ a:hover,a:active,a:focus{
     font-size: 5em;
 }
 
-/* ///////////////////////////////////////////////////////////////////// 
-//  05 - Imagen
-/////////////////////////////////////////////////////////////////////*/
-
-#imagen figure img {
-	max-width: 100%;
-	display: block;
-	margin:auto;
-}
 
 /* ///////////////////////////////////////////////////////////////////// 
 //  05 - Portfolio
@@ -328,7 +296,7 @@ footer {
 
 @media all and (max-width: 1200px) and (min-width: 992px) {
 
-	.services {
+	.islas-area {
 		max-width: 293px;
 		height: 213px;
 	}
@@ -366,7 +334,7 @@ footer {
 @media all and (max-width: 991px) {
 
 	header{
-		background: url(../images/bg-small.jpg) no-repeat;
+		background: url(../images/pagina 1-01.png) no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: 50% -50px;
