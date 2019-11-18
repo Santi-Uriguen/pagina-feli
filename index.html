@@ -165,6 +165,14 @@
                     
                 }
                 
+                var accordeon = this.nextElementSibling;
+                if (accordeon.style.minWidth) {
+                    accordeon.style.minWidth = null;
+                } else {
+                    accordeon.style.minWidth = panel.scrollWidth + "px";
+                    
+                }
+                
             });
         }
     </script>
