@@ -204,55 +204,6 @@ a:hover,a:active,a:focus{
 }
 
 
-.port {
-	list-style: none;
-	text-align: left;
-	padding-bottom: 40px;
-}
-
-.port .item {
-	display: inline-block;
-	text-align: left;
-	position: relative;
-}
-
-.port figure {
-	margin: 0;
-	position: relative;
-}
-
-.port figure img {
-	max-width: 60%;
-	display: block;
-	position: relative;
-}
-
-.port figcaption {
-	position: absolute;
-	top: 0;
-	left: 0;
-	padding: 20px;
-	background: #111;
-	color: #e66f69;
-}
-
-.port figcaption h3 {
-	margin: 0px 0px 8px 0px;
-	padding: 0;
-	color: #fff;
-}
-
-.port figcaption span:before {
-	content: 'by ';
-}
-
-.port figcaption a {
-	text-align: center;
-	padding: 8px 15px;
-	display: inline-block;
-	color: #fff;
-}
-
 .cs-style-3 figure {
 	overflow: hidden;
 }
@@ -298,10 +249,7 @@ a:hover,a:active,a:focus{
 	transition: transform 0.4s, opacity 0.1s;
 }
 
-.cs-style-3 figcaption a {
-	position: absolute;
-	bottom: 31px;
-	right: 20px;
+
 }
 .button{
 	background: transparent;
@@ -326,9 +274,7 @@ a:hover,a:active,a:focus{
     background: #000;
     color: #fff;
 }
-.item-space {
-    margin-bottom: 30px;
-}
+
 
 
 
@@ -349,6 +295,7 @@ footer {
     margin: 0;
     padding: 20px 0px;
     text-align: left;
+	
 }
 .designed {
     margin: 0;
