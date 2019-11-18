@@ -3,6 +3,11 @@
     justify-content:center;
     align-content:center;
 }
+
+.row img{
+    max-width:100%;
+    height:auto;
+}
     
 .accordion {
     display:inline-block;
@@ -82,11 +87,8 @@
 #color #estructura #simplif #trama #pag4:{
     display:inline-block;
     vertical-allign:top;
-    height:50%;
+    ;
 }
 
-#color{
-    height:80%;
-    max-height:60%;
-}
+
 
