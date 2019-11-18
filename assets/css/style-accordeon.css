@@ -76,6 +76,8 @@
     transition: max-height 0.2s ease-out;
     transition: max-width 0.2s ease-out;
 }
+
+.panel:active
     
 #color #estructura #simplif #trama #pag4:{
     display:inline-block;
@@ -84,6 +86,7 @@
 }
 
 #color{
-    height:80%
+    height:80%;
+    max-height:60%;
 }
 
