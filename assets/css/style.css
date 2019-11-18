@@ -167,8 +167,9 @@ a:hover,a:active,a:focus{
     	height:90%;
     	width:90%;
 	margin-top:0px;
-	display:;
-	position:center;
+	position:relative;
+	left:5%;
+	
 }
 
 
