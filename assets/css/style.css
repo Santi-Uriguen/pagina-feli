@@ -36,8 +36,11 @@ html, body {
     font-family: 'ZCOOL XiaoWei', sans-serif;
 }
 
+
+
 body {
 	font-family: 'ZCOOL XiaoWei', sans-serif;
+	background-color:#81ecec
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Dosis', sans-serif;
@@ -196,7 +199,7 @@ a:hover,a:active,a:focus{
     	height:90%;
     	width:90%;
 	margin-top:0px;
-	display:inline-block;
+	display:;
 	position:center;
 }
 
