@@ -193,9 +193,11 @@ a:hover,a:active,a:focus{
 
 
 #portfolio img {
-    height:90%;
-    width:90;
+    	height:90%;
+    	width:90%;
 	margin-top:0px;
+	display:inline-block;
+	position:center;
 }
 
 

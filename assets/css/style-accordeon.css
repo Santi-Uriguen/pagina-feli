@@ -21,29 +21,32 @@
 #boga {
         background:url('../images/Isla Boga.jpg') no-repeat;
         background-position:center;
-        height:60%;
-        width:60%
+        height:80%;
+        
 }
 
 #bauhaus {
         background:url('../images/Isla Bauhaus.jpg') no-repeat;
         background-position:center;
-        height:60%;
-        width:60%;
+        height:80%;
+        
 }
 
 #jaula {
         background:url('../images/Isla Jaula.jpg') no-repeat;
         background-position:center;
+        height:80%;
 }
 
 #pieza {
         background:url('../images/Isla Pieza.jpg')no-repeat;
         background-position:center;
+        height:80%;
 }
 #fad {
         background:url('../images/Isla Fad.jpg')no-repeat;
         background-position:center;
+        height:80%
 }
 
 
@@ -79,4 +82,6 @@
     vertical-allign:top;
 }
 
+#color{
+    height:80%
 
