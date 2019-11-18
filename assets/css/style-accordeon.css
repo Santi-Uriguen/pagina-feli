@@ -94,4 +94,8 @@
     vertical-allign:top;
 }
 
+.row2{
+    display:flex;
+    justify-content:left;
+}
 
