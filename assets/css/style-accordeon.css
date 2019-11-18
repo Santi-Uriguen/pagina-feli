@@ -23,6 +23,7 @@
 #boga {
         background:url('../images/Isla Boga.jpg') no-repeat;
         background-position:center;
+        border-radius: 50%;
         
         
 }
@@ -30,6 +31,7 @@
 #bauhaus {
         background:url('../images/Isla Bauhaus.jpg') no-repeat;
         background-position:center;
+        border-radius: 50%;
         
         
 }
@@ -37,17 +39,20 @@
 #jaula {
         background:url('../images/Isla Jaula.jpg') no-repeat;
         background-position:center;
+        border-radius: 50%;
         
 }
 
 #pieza {
         background:url('../images/Isla Pieza.jpg')no-repeat;
         background-position:center;
+        border-radius: 50%;
        
 }
 #fad {
         background:url('../images/Isla Fad.jpg')no-repeat;
         background-position:center;
+        border-radius: 50%;
         
 }
 
