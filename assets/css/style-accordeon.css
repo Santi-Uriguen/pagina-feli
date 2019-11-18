@@ -4,10 +4,7 @@
     align-content:center;
 }
 
-.row img{
-    max-width:100%;
-    height:auto;
-}
+
     
 .accordion {
     display:inline-block;
@@ -82,7 +79,10 @@
     transition: max-width 0.2s ease-out;
 }
 
-
+.accordion:after img{
+    max-width:100%;
+    height:auto;
+}
     
 #color #estructura #simplif #trama #pag4:{
     display:inline-block;
